@@ -1,0 +1,47 @@
+/* Season Sans Regular */
+@font-face {
+  font-family: "Season Sans";
+  src: url("https://raw.githubusercontent.com/linaresgdiana-beep/fonts/main/SeasonSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Season Sans Regular Italic */
+@font-face {
+  font-family: "Season Sans";
+  src: url("https://raw.githubusercontent.com/linaresgdiana-beep/fonts/main/SeasonSans-RegularItalic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Season Sans Medium */
+@font-face {
+  font-family: "Season Sans";
+  src: url("https://raw.githubusercontent.com/linaresgdiana-beep/fonts/main/SeasonSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Season Sans Medium Italic */
+@font-face {
+  font-family: "Season Sans";
+  src: url("https://raw.githubusercontent.com/linaresgdiana-beep/fonts/main/SeasonSans-MediumItalic.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Season Sans Bold */
+@font-face {
+  font-family: "Season Sans";
+  src: url("https://raw.githubusercontent.com/linaresgdiana-beep/fonts/main/SeasonSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Season Sans Bold Italic */
+@font-face {
+  font-family: "Season Sans";
+  src: url("https://raw.githubusercontent.com/linaresgdiana-beep/fonts/main/SeasonSans-BoldItalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+}
